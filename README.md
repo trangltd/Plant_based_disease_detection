@@ -12,7 +12,7 @@ Crop diseases is a significant threat to food security, however their fast ident
 7. Evaluate the model on test data.
 8. Use the model for test data accuracy.
 
-# Libarary
+# Libraries
 
 1. Tensorflow 2.0
 2. Libraries like numpy, matplotlib, sklearn
