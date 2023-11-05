@@ -12,7 +12,7 @@ Crop diseases is a significant threat to food security, however their fast ident
 7. Evaluate the model on test data.
 8. Use the model for test data accuracy.
 
-# why collab?
+# Why collab?
 
 From my previous experience with the machine learning projects I choose to go with the google colaboratory. In my previous projects the setting up environment in an anaconda and pytorch is tough installing all the required libraries and everything was lot of problem for me. Setting up environment is one thing but running it on a laptop is a different thing due to hardware restriction on laptop most of the time my environment get crashed due to low hardware power.
 
