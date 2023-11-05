@@ -1,4 +1,4 @@
-# Plant-based-disease-detection
+# Plant based disease detection
 
 Crop diseases is a significant threat to food security, however their fast identification remains tough in several elements of the planet because of the shortage of the required infrastructure. Recent advances in the field of computer vision made possible for disease diagnosis from healthy and diseased plants through deep learning. In this project I am using PlantVillage dataset a publicly available dataset of diseased plant leaves collected under controlled conditions. Using CNN and Machine Learning can be use to identify the classification between diseased and healthy plants by their leaves condition.
 # The steps are as follows.
